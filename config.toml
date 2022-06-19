@@ -1,6 +1,0 @@
-baseURL = 'https://wiltonpaulo.github.io/site/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = "contrast-hugo"
-[permalinks]
-  posts = "/:filename/"

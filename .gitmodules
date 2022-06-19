@@ -1,0 +1,9 @@
+[submodule "themes/constrast-hugo"]
+	path = themes/constrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo
+[submodule "site"]
+	path = site
+	url = https://github.com/wiltonpaulo/site.git
+[submodule "themes/contrast-hugo"]
+	path = themes/contrast-hugo
+	url = https://github.com/niklasbuschmann/contrast-hugo
